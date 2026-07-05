@@ -1,5 +1,5 @@
 # Takım İsmi
-TekTik
+CemoTek
 
 ## Ürün İle İlgili Bilgiler
 
