@@ -9,7 +9,8 @@ TekTik
 * **Cemal Çağlar Tokköz**: Team Member/Developer
 
 ### Ürün İsmi
---[Ürün Adı]--
+DiagMate
+
 
 ### Ürün Açıklaması
 [Ürününüzün ne işe yaradığını, hangi problemi çözdüğünü ve temel işlevini 1-2 cümle ile anlatın. Örn: Otonom veri toplama ve IoT tabanlı haberleşme sistemi.]
