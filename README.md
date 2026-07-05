@@ -13,7 +13,7 @@ DiagMate
 
 
 ### Ürün Açıklaması
-[Ürününüzün ne işe yaradığını, hangi problemi çözdüğünü ve temel işlevini 1-2 cümle ile anlatın. Örn: Otonom veri toplama ve IoT tabanlı haberleşme sistemi.]
+Araç sahiplerinin OBD2 cihazlarıyla okudukları hata kodlarını kolayca anlamlandırmasını ve periyodik bakımlarını takip etmesini sağlayan akıllı bir asistan. Yapay zeka destekli altyapısı sayesinde karmaşık teknik terimleri sadeleştirir ve kullanıcıya adım adım çözüm önerileri sunar.
 
 ### Ürün Özellikleri
 * [Özellik 1, örn: LoRa modülü ile uzak mesafe haberleşme]
