@@ -35,7 +35,7 @@ Takım arkadaşlarının sürece dahil olmaması nedeniyle Akademi danışman il
 Projenin tek kişi ile ilerleyecek olması ve danışman yönlendirmesiyle "mezuniyet yeterliliği (MVP)" hedeflendiği için Backlog oldukça kompakt tutulmuştur. İlk sprint için efor, "Proje dokümantasyonu, mimari planlama ve No-Code platform seçimi" olarak belirlenmiştir.
 
 **Sprint Board Update:**
-*Trello Panomuzun Linki:* https://trello.com/b/UtPxK5Gf/diagnode-ai-sprint-1
+*Trello Panomuzun Linki:* https://trello.com/b/UtPxK5Gf/diagnode-ai
 
 [Burada senin GitHub'a sürükleyip bıraktığın resmin otomatik kodu kalacak]
 
