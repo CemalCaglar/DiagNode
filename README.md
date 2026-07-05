@@ -37,8 +37,6 @@ Projenin tek kişi ile ilerleyecek olması ve danışman yönlendirmesiyle "mezu
 **Sprint Board Update:**
 *Trello Panomuzun Linki:* https://trello.com/b/UtPxK5Gf/diagnode-ai
 
-[Burada senin GitHub'a sürükleyip bıraktığın resmin otomatik kodu kalacak]
-
 **Ürün Durumu:**
 Henüz geliştirme aşamasına geçilmemiştir. Hangi No-Code platformunun kullanılacağı ve veritabanı (OBD2 kodları) mimarisi üzerine araştırmalar devam etmektedir. Proje reposu, Kanban panosu ve ana dokümantasyon tamamlanmıştır.
 
