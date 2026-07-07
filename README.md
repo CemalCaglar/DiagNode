@@ -49,4 +49,5 @@ Henüz geliştirme aşamasına geçilmemiştir. Hangi No-Code platformunun kulla
 ---
 
 ## Ürün Görüntüleri / Prototipler
-![Uygulama Arayüzü veya Prototip](gorsel_linki_buraya_gelecek)
+<img width="593" height="1061" alt="DiagNode ekran" src="https://github.com/user-attachments/assets/f9b0cfdc-c55a-477b-93d3-2cfdb5e2c3ec" />
+
