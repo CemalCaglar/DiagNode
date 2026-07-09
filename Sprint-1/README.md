@@ -6,6 +6,19 @@ Takım arkadaşlarının sürece dahil olmaması nedeniyle Akademi danışman il
 **Backlog Dağıtma Mantığı ve Story Seçimleri:**
 Projenin tek kişi ile ilerleyecek olması ve danışman yönlendirmesiyle "mezuniyet yeterliliği (MVP)" hedeflendiği için Backlog oldukça kompakt tutulmuştur. İlk sprint için efor, "Proje dokümantasyonu, mimari planlama ve No-Code platform seçimi" olarak belirlenmiştir.
 
+### Sprint 1 Story Point (Efor Puanlaması) Özet
+* **Bu Sprint İçin Hedeflenen Toplam Puan:** 10 Puan
+* **Sprint Sonunda Tamamlanan Toplam Puan:** 10 Puan
+* **Başarı Oranı:** %100
+
+| Görev / İş Paketi (User Story & Task) | Sorumlu Rol | Durum | Story Point (Efor Puanı) |
+| :--- | :--- | :--- | :---: |
+| Proje fikrinin (DiagNode AI) belirlenmesi ve kapsam analizi | Product Owner | Tamamlandı | 2 Puan |
+| Akademi ekibine solo geliştirici durumunun raporlanması | Scrum Master | Tamamlandı | 1 Puan |
+| GitHub reposunun oluşturulması ve ana vizyon dökümanının yazılması | Developer | Tamamlandı | 2 Puan |
+| Uygulama temel arayüz (UI Mockup) tasarımlarının yapılması | Developer | Tamamlandı | 3 Puan |
+| Trello Kanban panosunun kurulması ve iş takibi mimarisi | Scrum Master | Tamamlandı | 2 Puan |
+
 **Sprint Board Update:**
  https://trello.com/b/UtPxK5Gf/diagnode-ai
 
