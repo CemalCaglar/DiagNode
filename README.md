@@ -81,7 +81,6 @@ Henüz geliştirme aşamasına geçilmemiştir. Hangi No-Code platformunun kulla
 
 ---
 # Sprint 2 Değerlendirmesi
-*(6 Temmuz 2026 - 19 Temmuz 2026)*[cite: 1]
 
 **Sprint Notları:**
 Bu sprintin ana odak noktası, tasarlanan arayüzün No-Code platformuna (Glide) taşınması ve uygulamanın temelini oluşturan "OBD2 Hata Kodları" veritabanının sisteme entegre edilmesidir. Proje yönetimi Scrum metodolojisine uygun olarak güncellenmiş ve görevlere efor (Story Point) atanmıştır.
